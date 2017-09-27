@@ -8,3 +8,4 @@ npm start
 
 浏览器访问 http://localhost:8000/#/s5
 
+![img](https://github.com/ribuluo000/react-render-by-receivedData/blob/master/main.png)
